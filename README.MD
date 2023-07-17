@@ -1,5 +1,7 @@
 # Gerador de Código de Autorização para API da Conta Azul
 
+[![GitHub](https://img.shields.io/badge/Visite-Meu%20Perfil-0891B2?style=flat-square&logo=github)](https://github.com/Tgentil)
+
 Este script gera o código de autorização no formato "Basic" para obter o token de acesso à API da Conta Azul. O código de autorização é gerado utilizando o padrão de hash em Base64, conforme descrito na [documentação oficial da API da Conta Azul](https://developers.contaazul.com/).
 
 Essa solução é uma alternativa a fazer a criptografia pelo site [base64encode.org](https://www.base64encode.org/), como mencionado na seção de FAQ da API da Conta Azul.
