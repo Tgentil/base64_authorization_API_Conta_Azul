@@ -2,7 +2,7 @@
 
 Este script gera o código de autorização no formato "Basic" para obter o token de acesso à API da Conta Azul. O código de autorização é gerado utilizando o padrão de hash em Base64, conforme descrito na [documentação oficial da API da Conta Azul](https://developers.contaazul.com/).
 
-Essa solução é uma alternativa ao método de geração do token disponibilizado no site [base64encode.org](https://www.base64encode.org/), como mencionado na seção de FAQ da API da Conta Azul.
+Essa solução é uma alternativa a fazer a criptografia pelo site [base64encode.org](https://www.base64encode.org/), como mencionado na seção de FAQ da API da Conta Azul.
 
 ## Pré-requisitos
 
